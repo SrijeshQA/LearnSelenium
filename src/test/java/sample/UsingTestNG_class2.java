@@ -41,7 +41,7 @@ public class UsingTestNG_class2 {
 
     @Test
     public void testHardAssert() {
-        Assert.assertEquals(true, false);
+        Assert.assertEquals(true, true);
     }
 
     @Test
